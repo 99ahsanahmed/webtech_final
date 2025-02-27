@@ -29,7 +29,7 @@ const Mainpage = () => {
       imageSrc: "/images/premed-c2.webp",
     },
     {
-      id: "private-universities-2",
+      id: "private-universities",
       title: "Private Universities Course",
       subtitle: "AKU | Ziauddin | Shifa",
       tags: ["AKU", "Ziauddin", "FSC/A level"],
@@ -37,7 +37,7 @@ const Mainpage = () => {
       imageSrc: "/images/c1.webp",
     },
     {
-      id: "ibtida-mdcat-2",
+      id: "ibtida-mdcat",
       title: "IBTIDA MDCAT (8 MONTHS)",
       subtitle: "Every Journey Starts With A Dream",
       tags: ["MDCAT", "FSC Parallel Prep"],
@@ -45,7 +45,7 @@ const Mainpage = () => {
       imageSrc: "/images/premed-c2.webp",
     },
     {
-      id: "private-universities-3",
+      id: "private-universities",
       title: "Private Universities Course",
       subtitle: "AKU | Ziauddin | Shifa",
       tags: ["AKU", "Ziauddin", "FSC/A level"],
@@ -53,7 +53,7 @@ const Mainpage = () => {
       imageSrc: "/images/c1.webp",
     },
     {
-      id: "ibtida-mdcat-3",
+      id: "ibtida-mdcat",
       title: "IBTIDA MDCAT (8 MONTHS)",
       subtitle: "Every Journey Starts With A Dream",
       tags: ["MDCAT", "FSC Parallel Prep"],
@@ -61,7 +61,7 @@ const Mainpage = () => {
       imageSrc: "/images/premed-c2.webp",
     },
     {
-      id: "private-universities-4",
+      id: "private-universities",
       title: "Private Universities Course",
       subtitle: "AKU | Ziauddin | Shifa",
       tags: ["AKU", "Ziauddin", "FSC/A level"],
@@ -69,7 +69,7 @@ const Mainpage = () => {
       imageSrc: "/images/c1.webp",
     },
     {
-      id: "ibtida-mdcat-4",
+      id: "ibtida-mdcat",
       title: "IBTIDA MDCAT (8 MONTHS)",
       subtitle: "Every Journey Starts With A Dream",
       tags: ["MDCAT", "FSC Parallel Prep"],
@@ -77,7 +77,7 @@ const Mainpage = () => {
       imageSrc: "/images/premed-c2.webp",
     },
     {
-      id: "private-universities-5",
+      id: "private-universities",
       title: "Private Universities Course",
       subtitle: "AKU | Ziauddin | Shifa",
       tags: ["AKU", "Ziauddin", "FSC/A level"],
@@ -85,7 +85,7 @@ const Mainpage = () => {
       imageSrc: "/images/c1.webp",
     },
     {
-      id: "ibtida-mdcat-5",
+      id: "ibtida-mdcat",
       title: "IBTIDA MDCAT (8 MONTHS)",
       subtitle: "Every Journey Starts With A Dream",
       tags: ["MDCAT", "FSC Parallel Prep"],
@@ -179,3 +179,4 @@ const Mainpage = () => {
 };
 
 export default Mainpage;
+
